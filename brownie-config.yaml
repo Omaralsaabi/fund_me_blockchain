@@ -11,8 +11,8 @@ wallets:
 
 networks:
   default: development
-  Sepolia:
-    eth_usd_price_feed: "0x785E91f9E091b3D68C17Fea185E71135d6C0D438"
+  sepolia:
+    eth_usd_price_feed: "0x694AA1769357215DE4FAC081bf1f309aDC325306"
     verify: True
   mainnet-fork-dev:
     eth_usd_price_feed: "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
